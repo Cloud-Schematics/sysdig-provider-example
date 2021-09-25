@@ -1,4 +1,4 @@
-# Sysdig Provider Example
+# Configure alerts and dashboard for Monitoring services
 
 This module contains an example for how to use the [Sysdig Terraform Provider](https://registry.terraform.io/providers/sysdiglabs/sysdig/latest/docs) with [IBM Cloud Monitoring with Sysdig](https://www.ibm.com/cloud/sysdig).
 
